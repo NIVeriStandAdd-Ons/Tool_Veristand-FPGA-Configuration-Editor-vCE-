@@ -8,7 +8,7 @@ VCE is a graphical editor that allows to manipulate .fpgaconfig files.
 
 ### Built Availability ###
 
-There are two builds available in the *export\2014* folder. It is divided in two different parts:
+There are two builds available in the *Export\2014* folder. It is divided in two different parts:
 
 - **EXE** contains the executable only that can be run from whatever location on disc
 - **Installer** is the windows installer that places the executable above in the <LabVIEW folder>\Project so it can be called from the LV *Tools* menu.

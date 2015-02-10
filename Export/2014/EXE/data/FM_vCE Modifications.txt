@@ -1,0 +1,5 @@
+1) Modified xceDataNode properties (see Modification to xceDataNode class.PNG)
+
+2) Modified xceRootNode.lvclass:SaveNodes
+
+3) added Read Accessor "Read CnfgEditorDir.vi" to xceRootNode class

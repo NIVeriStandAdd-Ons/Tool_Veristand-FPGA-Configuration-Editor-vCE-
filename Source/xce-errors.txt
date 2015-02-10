@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Error codes for the Generic Configuration Editor (xCE)
+</nicomment>
+<nierror code="537020">
+While loading a configuration file an error occured.
+</nierror>
+<nierror code="537015">
+While setting the property "allowed subNode[]" it was determined that some of the allowed subnode class's files do not exist at their expected paths.  The class file (.lvclass) must be at this path to dynamically load the class at runtime.
+</nierror>
+<nierror code="537005">
+A error occured while loading a node from file.
+</nierror>
+<nierror code="537000">
+Node path does not exist.
+</nierror>
+<nierror code="537010">
+While starting a UI VI from "xceDataNode.lvclass:startUI.vi" method it was determined that the specified UI VI file for this class was not at the expected path.  Make sure that the UI VI is correctly spelled (case matters) and that the it is located in the correct directory.
+</nierror>
+</nidocument>
